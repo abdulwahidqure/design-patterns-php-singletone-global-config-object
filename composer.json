@@ -1,0 +1,16 @@
+{
+    "name": "abdulwahid/singletone-design-pattern-use-cases",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdul Wahid",
+            "email": "awahid@eikeconsulting.com"
+        }
+    ],
+    "require": {}
+}
